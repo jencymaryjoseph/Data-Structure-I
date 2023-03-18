@@ -1,4 +1,4 @@
-APPROACH 1 :
+APPROACH 1 : TWO POINTER TECHNIQUE:
 
 1.Brute-Force Approach in O(n^2) :
 
